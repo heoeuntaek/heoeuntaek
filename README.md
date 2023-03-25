@@ -1,6 +1,6 @@
 ### Hi there 👋
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)](https://github.com/heoeuntaek/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heoeuntaek&langs_count=8)](https://github.com/heoeuntaek/github-readme-stats)
 <!--
 **heoeuntaek/heoeuntaek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
