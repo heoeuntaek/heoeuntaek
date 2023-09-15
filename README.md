@@ -12,6 +12,7 @@
 
 365일 공부, 독서, 운동 이 세 가지를 꾸준하게 하면서 부족한 부분을 보완해 나갑니다.
 
+<br/>
 
 🎈Skill
 
@@ -19,13 +20,13 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heoeuntaek&langs_count=8)](https://github.com/heoeuntaek/github-readme-stats)
 
-
+<br/>
 
 📚Education.
 
 2015.03-2023.02 인천대학교 컴퓨터공학과
 
-
+<br/>
 
 🎞Project
 
