@@ -12,6 +12,7 @@
 
 365일 공부, 독서, 운동 이 세 가지를 꾸준하게 하면서 부족한 부분을 보완해 나갑니다.
 
+
 🎈Skill
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
@@ -24,6 +25,9 @@
 
 2015.03-2023.02 인천대학교 컴퓨터공학과
 
+
+
 🎞Project
+
 https://github.com/heoeuntaek/capstone-spring
 
