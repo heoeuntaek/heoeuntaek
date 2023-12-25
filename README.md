@@ -24,6 +24,8 @@
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
 ![다운로드](https://github.com/heoeuntaek/heoeuntaek/assets/80875005/b0c9b7d7-8181-461a-81c9-9b52dd954ad0)
+![다운로드](https://github.com/heoeuntaek/heoeuntaek/assets/80875005/52ae4650-7201-43e5-8e86-a405c24f4625)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heoeuntaek&langs_count=8)](https://github.com/heoeuntaek/github-readme-stats)
 
