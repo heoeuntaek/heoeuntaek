@@ -23,7 +23,7 @@
 🎈Skill
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-<img src="https://[img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.linkedin.com%2Fpulse%2Fspring-data-jpa-shivangam-soni&psig=AOvVaw0dx5Qz49nDVk0nQSDuuOGe&ust=1703576825666000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCNDnpruMqoMDFQAAAAAdAAAAABAD)"/>
+![다운로드](https://github.com/heoeuntaek/heoeuntaek/assets/80875005/b0c9b7d7-8181-461a-81c9-9b52dd954ad0)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heoeuntaek&langs_count=8)](https://github.com/heoeuntaek/github-readme-stats)
 
