@@ -37,5 +37,11 @@
 
 🎞Project
 
+언제만나 앱 팀 프로젝트(백엔드 담당)
 https://github.com/heoeuntaek/capstone-spring
+
+게시판 프로젝트(개인 프로젝트)
+https://github.com/heoeuntaek/project-post
+
+
 
