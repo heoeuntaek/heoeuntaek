@@ -42,6 +42,8 @@ https://github.com/heoeuntaek/project-post
 <br/>
 
 
+1:1 기타 문의
+https://open.kakao.com/o/sRxBOeyd
 
 
 
