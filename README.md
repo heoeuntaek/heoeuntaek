@@ -23,7 +23,6 @@
 🎈Skill
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
-Spring data jpa
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=heoeuntaek&langs_count=8)](https://github.com/heoeuntaek/github-readme-stats)
