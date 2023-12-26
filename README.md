@@ -1,6 +1,3 @@
-
-
-
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hello%20I'm%20EunTaek&fontSize=90)
 
 
@@ -20,6 +17,15 @@
 이력서(포트폴리오) https://tinyurl.com/yv6o56cd
 <br/>
 
+🎞Project
+
+언제만나 앱 팀 프로젝트(백엔드 담당)
+https://github.com/heoeuntaek/capstone-spring
+
+게시판 프로젝트(개인 프로젝트)
+https://github.com/heoeuntaek/project-post
+
+
 🎈Skill
 
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/>
@@ -35,13 +41,7 @@
 
 <br/>
 
-🎞Project
 
-언제만나 앱 팀 프로젝트(백엔드 담당)
-https://github.com/heoeuntaek/capstone-spring
-
-게시판 프로젝트(개인 프로젝트)
-https://github.com/heoeuntaek/project-post
 
 
 
